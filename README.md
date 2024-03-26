@@ -93,9 +93,10 @@ const saveData = async () => {
 saveData();
 ```
 
-### Execution Time (Multithreading)
+### :stopwatch: Execution Time (Single Threading)
 
-#### <b><i>Execution Time: 2000ms</i></b>
+> #### :alarm_clock: <b><i>Execution Time: 2000ms</i></b>
+> #### :hourglass_flowing_sand: This is significantly longer than the multithreaded execution time.
 
 ## Single Threading Implementation
 
