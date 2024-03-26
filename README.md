@@ -96,7 +96,6 @@ saveData();
 ### :stopwatch: Execution Time (Single Threading)
 
 > #### :alarm_clock: <b><i>Execution Time: 2000ms</i></b>
-> #### :hourglass_flowing_sand: This is significantly longer than the multithreaded execution time.
 
 ## Single Threading Implementation
 
